@@ -1,0 +1,17 @@
+#+LINK: gentoo https://gentoo.org
+#+LINK: overlay https://overlays.gentoo.org
+#+LINK: gpl http://www.gnu.org/licenses/gpl.html
+
+* Personal Gentoo Overlay
+
+A personal [[gentoo][Gentoo]] [[overlay][overlay]].  This contains a collection
+of packages that I have put together but have not submitted upstream for
+various reasons.
+
+** License
+
+The overlay is release, AS-IS, WITHOUT warranty under the terms and conditions
+of the GNU Public License version 3.
+
+For more information, please see the included ~LICENSE~ file.  If you did not
+receive a license file, you may read the [[gpl][GPL]] online.
