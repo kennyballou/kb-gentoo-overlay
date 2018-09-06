@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>kballou@devnulllabs.io</email>
+		<name>Kenny Ballou</name>
+	</maintainer>
+	<longdescription lang="en">
+		bugwarrior is a command line utility for updating your local
+		taskwarrior database from your forge issue trackers.
+	</longdescription>
+	<upstream>
+		<remote-id type="pypi">bugwarrior</remote-id>
+		<remote-id type="github">ralphbean/bugwarrior</remote-id>
+	</upstream>
+</pkgmetadata>

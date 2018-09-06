@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>kballou@devnulllabs.io</email>
+		<name>Kenny Ballou</name>
+	</maintainer>
+	<longdescription lang="en">
+		Twiggy is a more Pythonic logger
+	</longdescription>
+	<upstream>
+		<remote-id type="pypi">Twiggy</remote-id>
+		<remote-id type="github">wearpants/twiggy</remote-id>
+	</upstream>
+</pkgmetadata>
